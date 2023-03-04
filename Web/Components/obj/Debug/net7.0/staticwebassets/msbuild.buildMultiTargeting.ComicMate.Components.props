@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ComicMate.Components.props" />
+</Project>

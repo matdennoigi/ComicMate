@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{FA6D45C4-32EF-4CB9-B19D-E096504BE3DD}|Default">
+  <MonoDevelop.Ide.ItemProperties.Maui.ComicMate.MauiBlazor PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Web.ComicMate.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web/Client/App.razor">
+    <Files>
+      <File FileName="Web/Client/wwwroot/index.html" Line="12" Column="74" />
+      <File FileName="Web/Components/_Imports.razor" Line="2" Column="17" />
+      <File FileName="Web/Client/App.razor" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ComicMate" expanded="True">
+            <Node name="Maui" selected="True" />
+            <Node name="Web" expanded="True">
+              <Node name="ComicMate.Client" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="FrameworkReferences" expanded="True" />
+                  <Node name="PackageDependencies" expanded="True" />
+                  <Node name="ProjectDependencies" expanded="True" />
+                </Node>
+                <Node name="Client" expanded="True" />
+                <Node name="Properties" expanded="True" />
+                <Node name="wwwroot" expanded="True">
+                  <Node name="css" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="ComicMate.Components" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+                <Node name="wwwroot" expanded="True" />
+              </Node>
+              <Node name="ComicMate.Pages" expanded="True">
+                <Node name="Pages" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="wwwroot" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Crawlers.ComicMate.Crawler.Abstractions FirstBuild="True" />
+</Properties>

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "TOOY7mzYRyWqlXsfQ3FKmrPg7zwpKa0yLvUG2fNYcxVSr1p2hSNAT/lBa/zW44VoJV3O3r9wSjHn+eJAqxr6JQ==",
+  "success": true,
+  "projectFilePath": "/Users/huyphanquang/Workspace/ComicMate/Web/Pages/ComicMate.Pages.csproj",
+  "expectedPackageFiles": [
+    "/Users/huyphanquang/.nuget/packages/microsoft.aspnetcore.authorization/7.0.3/microsoft.aspnetcore.authorization.7.0.3.nupkg.sha512",
+    "/Users/huyphanquang/.nuget/packages/microsoft.aspnetcore.components/7.0.3/microsoft.aspnetcore.components.7.0.3.nupkg.sha512",
+    "/Users/huyphanquang/.nuget/packages/microsoft.aspnetcore.components.analyzers/7.0.3/microsoft.aspnetcore.components.analyzers.7.0.3.nupkg.sha512",
+    "/Users/huyphanquang/.nuget/packages/microsoft.aspnetcore.components.forms/7.0.3/microsoft.aspnetcore.components.forms.7.0.3.nupkg.sha512",
+    "/Users/huyphanquang/.nuget/packages/microsoft.aspnetcore.components.web/7.0.3/microsoft.aspnetcore.components.web.7.0.3.nupkg.sha512",
+    "/Users/huyphanquang/.nuget/packages/microsoft.aspnetcore.metadata/7.0.3/microsoft.aspnetcore.metadata.7.0.3.nupkg.sha512",
+    "/Users/huyphanquang/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/huyphanquang/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/huyphanquang/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/huyphanquang/.nuget/packages/microsoft.extensions.options/7.0.1/microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "/Users/huyphanquang/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/huyphanquang/.nuget/packages/microsoft.jsinterop/7.0.3/microsoft.jsinterop.7.0.3.nupkg.sha512",
+    "/Users/huyphanquang/.nuget/packages/mudblazor/6.1.9/mudblazor.6.1.9.nupkg.sha512",
+    "/Users/huyphanquang/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

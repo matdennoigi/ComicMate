@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{C0C2BC32-8CF8-446E-8960-08D2F3DE614A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicMate.Client", "Web\Client\ComicMate.Client.csproj", "{2A239326-B515-49DD-921A-49004FCB87B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicMate.Pages", "Web\Pages\ComicMate.Pages.csproj", "{AB1D5512-4D78-4B37-BAB0-79852FD01AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicMate.Components", "Web\Components\ComicMate.Components.csproj", "{20507EF4-2EC5-4BA5-99F9-2C40AAE4F760}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Maui", "Maui", "{0C95AA76-30D5-4711-B6BB-A589E060F1F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicMate.MauiBlazor", "Maui\MauiBlazor\ComicMate.MauiBlazor.csproj", "{FA6D45C4-32EF-4CB9-B19D-E096504BE3DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Crawlers", "Crawlers", "{21CA96FA-21DD-4475-83A0-BF674573E084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicMate.Crawler.Abstractions", "Crawlers\ComicMate.Crawler.Abstractions\ComicMate.Crawler.Abstractions.csproj", "{AD918196-3AA9-4016-AAF5-F15CAD96721E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A239326-B515-49DD-921A-49004FCB87B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A239326-B515-49DD-921A-49004FCB87B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A239326-B515-49DD-921A-49004FCB87B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A239326-B515-49DD-921A-49004FCB87B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB1D5512-4D78-4B37-BAB0-79852FD01AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1D5512-4D78-4B37-BAB0-79852FD01AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1D5512-4D78-4B37-BAB0-79852FD01AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1D5512-4D78-4B37-BAB0-79852FD01AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20507EF4-2EC5-4BA5-99F9-2C40AAE4F760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20507EF4-2EC5-4BA5-99F9-2C40AAE4F760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20507EF4-2EC5-4BA5-99F9-2C40AAE4F760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20507EF4-2EC5-4BA5-99F9-2C40AAE4F760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA6D45C4-32EF-4CB9-B19D-E096504BE3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6D45C4-32EF-4CB9-B19D-E096504BE3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6D45C4-32EF-4CB9-B19D-E096504BE3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6D45C4-32EF-4CB9-B19D-E096504BE3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD918196-3AA9-4016-AAF5-F15CAD96721E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD918196-3AA9-4016-AAF5-F15CAD96721E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD918196-3AA9-4016-AAF5-F15CAD96721E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD918196-3AA9-4016-AAF5-F15CAD96721E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F09EC6-EFBC-4414-BACC-CA3AFB99DB64}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2A239326-B515-49DD-921A-49004FCB87B7} = {C0C2BC32-8CF8-446E-8960-08D2F3DE614A}
+		{AB1D5512-4D78-4B37-BAB0-79852FD01AFD} = {C0C2BC32-8CF8-446E-8960-08D2F3DE614A}
+		{20507EF4-2EC5-4BA5-99F9-2C40AAE4F760} = {C0C2BC32-8CF8-446E-8960-08D2F3DE614A}
+		{FA6D45C4-32EF-4CB9-B19D-E096504BE3DD} = {0C95AA76-30D5-4711-B6BB-A589E060F1F1}
+		{AD918196-3AA9-4016-AAF5-F15CAD96721E} = {21CA96FA-21DD-4475-83A0-BF674573E084}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/huyphanquang/Workspace/ComicMate/Web/Pages/obj/Debug/net7.0/scopedcss/projectbundle/ComicMate.Pages.bundle.scp.css",
+      "PackagePath": "staticwebassets/ComicMate.Pages.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/huyphanquang/Workspace/ComicMate/Web/Pages/wwwroot/background.png",
+      "PackagePath": "staticwebassets/background.png"
+    },
+    {
+      "Id": "/Users/huyphanquang/Workspace/ComicMate/Web/Pages/wwwroot/exampleJsInterop.js",
+      "PackagePath": "staticwebassets/exampleJsInterop.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.ComicMate.Pages.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.ComicMate.Pages.props",
+      "PackagePath": "build\\ComicMate.Pages.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ComicMate.Pages.props",
+      "PackagePath": "buildMultiTargeting\\ComicMate.Pages.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ComicMate.Pages.props",
+      "PackagePath": "buildTransitive\\ComicMate.Pages.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
